@@ -44,6 +44,7 @@ main {
 .nft-card .img-link:hover::before {
   opacity: 0.4;
 }
+
 .nft-card .img-link:hover::after {
   opacity: 1;
 }
